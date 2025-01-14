@@ -1,0 +1,1 @@
+export const UniswapV3RouterABI = [] as const;
