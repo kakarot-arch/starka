@@ -1,4 +1,9 @@
-# Eliza 🤖
+# Starka 🤖
+
+- Check out this [YouTube video](https://youtu.be/H1Bz8oQXOLg)!
+  
+- [![Watch the video](https://img.youtube.com/vi/H1Bz8oQXOLg/0.jpg)](https://www.youtube.com/watch?v=H1Bz8oQXOLg)
+
 
 <div align="center">
   <img src="./docs/static/img/eliza_banner.jpg" alt="Eliza Banner" width="100%" />
